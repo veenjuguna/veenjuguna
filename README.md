@@ -13,20 +13,14 @@
 
 ```yaml
 name: Ivy Njuguna
-location: Nairobi, Kenya 🇰🇪
 currently_building: NeuroBridge — AI-powered assistive communication & neuro care
 roles:
   - Frontend Lead, Women in Tech @ KCA University
   - Community Outreach Lead, AWS Student Builder Group
   - Facilitator, GDG Kenya
-  - Ops Lead @ Jenga eLearning | COO @ Elimika 65
-studying: BIT @ KCA University
+  
 writes_at: ivynjuguna.substack.com
-vibe: vintage aesthetics + scrapbook energy + Amapiano basslines 
-fun_fact: code-switches between English, Kiswahili & Sheng mid-sentence 
 ```
-
----
 
 ###  Currently Building
 
