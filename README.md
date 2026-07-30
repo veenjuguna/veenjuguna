@@ -8,7 +8,6 @@ Fullstack Developer · Builder · Community Organizer
 
 ```yaml
 name: Ivy Njuguna
-location: Nairobi, Kenya
 currently_building: NeuroBridge — AI-powered assistive communication & neuro care
 roles:
   - Frontend Lead, Women in Tech @ KCA University
