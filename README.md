@@ -1,6 +1,6 @@
 # Hi, I'm Ivy
 
-Frontend Developer · Builder · Community Organizer
+Fullstack Developer · Builder · Community Organizer
 
 ---
 
@@ -14,9 +14,7 @@ roles:
   - Frontend Lead, Women in Tech @ KCA University
   - Community Outreach Lead, AWS Student Builder Group
   - Facilitator, GDG Kenya
-  - Ops Lead @ Jenga eLearning | COO @ Elimika 65
-studying: BIT @ KCA University
-writes_at: ivynjuguna.substack.com
+ writes_at: ivynjuguna.substack.com
 ```
 
 ---
