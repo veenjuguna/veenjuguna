@@ -52,6 +52,4 @@ Frontend contributor on a six-person team, working on admin dashboards, audit lo
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ivy-Njuguna)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://ivynjuguna.substack.com)
 
----
 
-*Proudly created with Claude*
